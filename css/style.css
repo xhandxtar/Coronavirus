@@ -1,0 +1,100 @@
+*{
+margin: 0px;
+        padding: 0px;
+    }#seccion{
+        margin:auto; width: 1000px; height: 1351px;
+    }
+    .header{
+        width: 1000px; height: 231px;
+        margin-top: 10px; margin-bottom: 10px;
+    }
+    #nav{
+        background-color:black;
+        width: 1000px; height: 30px;
+        margin-bottom: 10px;
+    }
+    #nav li{
+        display: inline;
+    }
+    #nav li a{
+        font-family: Arial;
+        font-size: 25px;
+        text-decoration: none;
+        color: #fff;
+        padding: 3px;
+    }
+    ul{
+        text-align: center;
+       margin-left: 80px;
+    }
+    #nav li a:hover{
+            background-color: #2e8fb1;
+            margin-top: -2px;
+            padding-bottom: 4px;
+
+          }
+    #seccion2{
+        margin:auto; width: 1000px; height: 1000px;
+    }
+    #img{
+        float:right;
+        background-color:white;
+        width: 300px; height: 1000px;
+    }
+    #conceptos{
+        background-color:darkred;
+        width: 690px; height: 1000px;
+        text-align: center;
+        color:#fff;
+    }
+
+	#seccion3{
+		width: 1000px; height: 1050px;
+    }
+		
+    #noticias{
+        background-color:darkred;
+        width: 1000px; height: 500px;
+        text-align: center;
+        color:#fff;
+        margin-bottom: 10px;
+    }
+
+    #img2{
+        float:right;
+        background-color:white;
+        width: 1000px; height: 550px;
+    }
+
+	#seccion4{
+		width: 1000px; height: 1000px;
+    }
+    #img3{
+        float:right;
+        background-color:white;
+        width: 300px; height: 1000px;
+    }
+    #cuidados{
+        background-color:darkred;
+        width: 690px; height: 1000px;
+        text-align: center;
+        color:#fff;
+    }
+
+    p{
+        margin-left: 10px;
+        margin-right: 10px;
+        text-indent: 1cm;
+        font-family: Arial;
+        line-height: 1.5;
+    }
+
+    #footer{
+        background-color:#c11a2e;
+        width: 1000px; height: 40px;
+        margin-top: 10px;
+        text-align: center;
+        color: #fff;
+        font-size: 20px;
+        font-family: Arial;
+    }
